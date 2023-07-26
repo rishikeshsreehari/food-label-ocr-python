@@ -4,7 +4,6 @@ Python code to read nutrient information using OCR
 
 Sample Input:
 
-![1](https://github.com/rishikeshsreehari/food-label-ocr-python/assets/14956650/a26d58da-b5bc-4a2f-8d10-413bd6219997)
 <img src="https://github.com/rishikeshsreehari/food-label-ocr-python/assets/14956650/a26d58da-b5bc-4a2f-8d10-413bd6219997" width="300">
 
 
